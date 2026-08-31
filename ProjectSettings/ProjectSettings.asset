@@ -608,8 +608,8 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: TP02_C1_BlancoRomero_RetroPong
-  metroPackageVersion: 
+  metroPackageName: TP02C1BlancoRomeroRetroPong
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -617,7 +617,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: TP02_C1_BlancoRomero_RetroPong
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: TP02_C1_BlancoRomero_RetroPong
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -684,13 +684,13 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 545fb4bb-1487-433c-a48e-c1a5f8d0299e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: TP02_C1_BlancoRomero_RetroPong
+  organizationId: agustinblanco12
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
