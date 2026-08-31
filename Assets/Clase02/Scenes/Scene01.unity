@@ -4165,7 +4165,7 @@ MonoBehaviour:
   MoveLeft: 276
   MoveDown: 274
   MoveRight: 275
-  moveSpeed: 5
+  moveSpeed: 15
 --- !u!212 &1725450819
 SpriteRenderer:
   serializedVersion: 2
@@ -4784,7 +4784,7 @@ MonoBehaviour:
   MoveLeft: 97
   MoveDown: 115
   MoveRight: 100
-  moveSpeed: 5
+  moveSpeed: 15
 --- !u!61 &1888348004
 BoxCollider2D:
   m_ObjectHideFlags: 0
