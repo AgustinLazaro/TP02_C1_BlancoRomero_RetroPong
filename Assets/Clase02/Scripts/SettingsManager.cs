@@ -23,13 +23,13 @@ public class SettingsManager : MonoBehaviour
 
     public void UpdateSpeedPlayer1(float newSpeed)
     {
-        textPlayer01.text = newSpeed.ToString("F0");
+        textPlayer01.text = newSpeed.ToString();
         scriptPlayer1.moveSpeed = newSpeed;
     }
 
     public void UpdateSpeedPlayer2(float newSpeed)
     {
-        textPlayer02.text = newSpeed.ToString("F0");
+        textPlayer02.text = newSpeed.ToString();
         scriptPlayer2.moveSpeed = newSpeed;
     }
 }
